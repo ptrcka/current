@@ -4,5 +4,36 @@
   "artist": "JH",
   "author": "JH",
   "cover": "https://images.yenpress.com/imgs/9798400900310.jpg?w=408&h=612&type=books&s=07b8a72c927b2a4c93ebd61c6bf346f9",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1709027894",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1O19EadWm5uU5mIhjq_XlN1TKYEnafTR6"
+        ]
+      }
+    },
+    "2": {
+      "title": "The Strange Man: Part 1",
+      "volume": "1",
+      "last_updated": "1709028129",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1JgTp5wDgdraCfmVSIWNzfPW6AaBl5x1B"
+        ]
+      }
+    },
+    "3": {
+      "title": "The Strange Man: Part 2",
+      "volume": "1",
+      "last_updated": "1709028205",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1cCzbkmFJp6igoDxoPxO4ulaOAi4WHY9j"
+        ]
+      }
+    }
+  }
 }
